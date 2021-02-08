@@ -5,7 +5,7 @@ def myfunction():
   quotes = f.readlines()
   f.close()
 
-  print(quotes[0])
+  print(quotes[13])
 __name__ = "myfunction"
 if __name__== "myfunction":
   myfunction()
